@@ -1,0 +1,1 @@
+# elasticsearch-with-search-guard
